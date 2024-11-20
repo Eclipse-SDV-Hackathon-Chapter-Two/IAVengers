@@ -33,3 +33,6 @@ Branching strategie
 
 Main
 Developer branch
+
+Pi4 Wired: 192.168.0.1
+Pi4 Hotspot: 192.168.1.1
