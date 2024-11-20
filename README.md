@@ -33,4 +33,3 @@ Branching strategie
 
 Main
 Developer branch
-
