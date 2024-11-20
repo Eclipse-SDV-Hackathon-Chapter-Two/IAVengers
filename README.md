@@ -5,7 +5,7 @@
 ## Who we are
 We are a team of IAV engineers
 
-* Ali Khali
+* Ali Khalil
 * Christian Claus
 * Engenji Glups
 * Sascha Markwardt
