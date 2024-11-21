@@ -20,7 +20,9 @@ https://github.com/Eclipse-SDV-Hackathon-Chapter-Two/challenge-play-by-wire
 ### What to do?
 
 * Check whats delivered with the challenge
-* 
+* Identify useful eclipse projects
+* Design an architecture
+*
 
 
 
