@@ -1,0 +1,18 @@
+{
+  "Vehicle": {
+    "children": {
+      "Speed": {
+        "datatype": "uint8",
+        "dbc2vss": {
+          "interval_ms": 100,
+          "signal": "Teensy_pot1"
+        },
+        "description": "Vehicle speed.",
+        "type": "sensor",
+        "unit": "km/h"
+      }
+    },
+    "description": "High-level vehicle data.",
+    "type": "branch"
+  }
+}
